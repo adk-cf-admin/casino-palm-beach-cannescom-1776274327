@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#310F00",
+            "lang-select-color": "#222829",
+            "bg-light": "#310F00",
+            "welcome-bonus-bg": "#310F00",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#641e00",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#c49848",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#c49848",
+            "yellow": "#FFE2C6",
+            "yellow-button": "#c49848",
+            "button-text": "#310F00",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#310F00",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#310F00",
+            "faq-label": "#310F00",
+            "bg-footer": "#310F00",
+            "copyright": "#e7e7d5",
+            "starColor": "#c49848",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6325"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6326",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Royal Palm Casino Logo"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6327",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Royal Palm Casino"
+        }
+    },
+    "pages": [
+        {
+            "id": "fr-fr-fr-FR",
+            "path": "\/",
+            "name": "Французский",
+            "languageCode": "fr",
+            "regionCode": "FR",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Royal Palm Casino",
+                    "title": "Royal Palm Casino Cannes — Jeux & Soirées Côte d'Azur",
+                    "description": "Vivez l'expérience du Casino Royal Palm à Cannes. Roulette, blackjack, poker et gastronomie sur la Côte d'Azur. Ouvert 7j\/7 dès 18h. Entrée libre !",
+                    "canonical": "casino-palm-beach-cannes.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6328",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casino-palm-beach-cannes.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6330"
+                },
+                "hero": {
+                    "title": "Le Casino de Prestige au Cœur de Cannes",
+                    "textDesktop": "Offre de bienvenue exclusive de",
+                    "textMobile": "Offre de bienvenue exclusive de",
+                    "playGame": "Lancer la partie",
+                    "claimBonus": "Réclamer le bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6331",
+                    "imageSizeModifier": -5,
+                    "imageYModifier": -4,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6332",
+                    "mobileImageSizeModifier": -10,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Activer le bonus",
+                    "title": "Top casinos",
+                    "allCasino": "Tous les casinos",
+                    "welcomeBonusText": "Bonus de bienvenue"
+                },
+                "bonusDetails": {
+                    "title": "Détails du bonus",
+                    "getBonusButtonText": "Obtenir le bonus",
+                    "maximumAmountText": "Montant maximum",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Code promo",
+                    "casino": "Casino",
+                    "bonuses": "Bonus",
+                    "rate": "Note",
+                    "freeSpins": "Tours gratuits",
+                    "moreInfo": "Plus d'infos",
+                    "get": "Obtenir",
+                    "refresh": "Actualiser"
+                },
+                "advantages": {
+                    "title": "Avantages",
+                    "advantagesBeforeText": "Vous cherchez une soirée inoubliable à Cannes ? Notre établissement conjugue jeux de classe mondiale, gastronomie raffinée et service VIP sur la Côte d'Azur. Voici pourquoi les joueurs nous choisissent :",
+                    "items": [
+                        "Ouvert 7j\/7 de 18h à 3h du matin — au cœur de Cannes",
+                        "Roulette, blackjack, poker et machines à sous certifiés ANJ",
+                        "Restaurant gastronomique ouvert dès 19h — cuisine d'exception",
+                        "Bar avec cocktails, champagne et piano live chaque soir",
+                        "Entrée libre — dress code élégant requis, adultes uniquement",
+                        "Cadre luxueux sur la Riviera française — expérience unique"
+                    ],
+                    "advantagesAfterText": "Rejoignez des milliers de joueurs qui font confiance au Royal Palm Casino pour leurs soirées de jeux à Cannes. Notre équipe dédiée vous accueille chaque soir dans un cadre d'exception sur la Côte d'Azur.",
+                    "knowMore": "En savoir plus",
+                    "appTitle": "Royal Palm Casino App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6333",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Royal Palm Casino App",
+                    "mobileGooglePlayImageTitle": "Royal Palm Casino App",
+                    "mobileIosImageTitle": "Royal Palm Casino App"
+                },
+                "games": {
+                    "playNowText": "Jouer maintenant",
+                    "title": "Jeux populaires",
+                    "allGames": "Tous les jeux"
+                },
+                "about": {
+                    "history": {
+                        "title": "Notre Histoire à Cannes",
+                        "description1": "Établi au cœur de Cannes, le Royal Palm Casino incarne l'excellence des jeux sur la Côte d'Azur. Reconnu sur la Riviera française, nous accueillons chaque soir joueurs et passionnés dans un cadre de prestige unique.",
+                        "items": [
+                            "Tables de roulette et blackjack certifiées par l'ANJ",
+                            "Ouverture du restaurant gastronomique et du bar piano",
+                            "Agrandissement de la salle des machines à sous",
+                            "Partenariat avec les grands événements cannois"
+                        ],
+                        "description2": "Nous opérons conformément à la réglementation française des jeux sous l'autorité de l'ANJ. Notre casino utilise des systèmes de sécurité certifiés pour protéger l'intégrité de chaque partie et la confidentialité de nos visiteurs.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6334",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "Nous enrichissons continuellement notre offre de jeux et d'événements pour les joueurs de Cannes. Notre engagement envers le jeu responsable reste une priorité absolue. Venez découvrir pourquoi la Côte d'Azur nous plébiscite chaque saison."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Nos Jeux & Expérience en Salle à Cannes",
+                        "description": "<h2>Découvrez l'Univers de Jeux du Casino Royal Palm à Cannes<\/h2>\n\n<p>Au Casino Royal Palm, nous vous proposons une expérience de jeu complète et raffinée au cœur de Cannes, sur la prestigieuse Côte d'Azur. Notre salle de jeux réunit les grands classiques du casino terrestre dans un cadre luxueux, avec des tables certifiées par l'Autorité Nationale des Jeux (ANJ) et un personnel formé aux plus hauts standards de l'industrie. Que vous soyez passionné de roulette, stratège du blackjack ou féru de poker, notre établissement de la Riviera française vous offre une soirée inoubliable, alliant le frisson du jeu à l'élégance absolue d'un club privé de prestige.<\/p>\n\n<h3>La Roulette : Reine des Tables à Cannes<\/h3>\n<p>La roulette est sans conteste le jeu emblématique de tout casino terrestre digne de ce nom. Chez nous, vous profitez de tables de roulette européenne avec un taux de retour joueur (RTP) de 97,3 %, certifiées par l'ANJ, pour des parties à la fois équitables et palpitantes. Nos croupiers professionnels, formés selon les standards de la Fédération des Casinos de France, dirigent chaque partie avec précision et élégance. La roulette française, proposée en exclusivité sur certaines tables, intègre la règle de la « prison » qui réduit l'avantage de la maison à seulement 1,35 %, offrant aux joueurs cannois des conditions parmi les plus avantageuses de la Riviera. Que vous misiez sur les numéros pleins, les chances simples ou les combinaisons complexes, l'atmosphère de notre salle de jeux vous transporte dans l'univers du jeu de prestige à la française.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Roulette Européenne :<\/strong> RTP 97,3 %, table ANJ certifiée, mises de 2 € à 5 000 € par partie, idéale pour tous les profils de joueurs à Cannes.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Roulette Française :<\/strong> Règle de la prison incluse, avantage maison réduit à 1,35 %, expérience authentiquement française sur la Côte d'Azur.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Roulette Anglaise :<\/strong> Variante appréciée des visiteurs internationaux de la Riviera française, avec plateau en anglais et croupiers bilingues.<\/li>\n<\/ul>\n\n<h3>Blackjack : Stratégie et Élégance sur la Côte d'Azur<\/h3>\n<p>Le blackjack est le jeu de table au meilleur ratio stratégie\/plaisir du casino terrestre. Dans notre salle cannoise, nous proposons plusieurs variantes de blackjack avec un RTP atteignant 99,5 % pour le blackjack classique en appliquant la stratégie de base. Nos tables accueillent de 1 à 7 joueurs simultanément, avec des mises allant de 5 € à 2 000 € selon les tables. Chaque partie est supervisée par des croupiers certifiés qui veillent à l'intégrité du jeu et au respect strict des règles établies par l'ANJ. Les joueurs de la Riviera française apprécient tout particulièrement nos tables VIP à mises hautes, réservées aux membres disposant d'une carte de fidélité Royal Palm, offrant une expérience exclusive et personnalisée.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Blackjack Classique :<\/strong> RTP 99,5 % avec stratégie optimale, 6 decks mélangés, règle de la double mise autorisée sur 9, 10 ou 11.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Blackjack VIP :<\/strong> Tables à mises élevées pour membres Royal Palm, mises jusqu'à 5 000 € par main, service personnalisé et boissons offertes.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Blackjack Multi-Mains :<\/strong> Possibilité de jouer jusqu'à 3 mains simultanément, stratégie avancée possible, idéal pour les joueurs expérimentés de Cannes.<\/li>\n<\/ul>\n\n<h3>Poker : L'Art du Jeu à la Française<\/h3>\n<p>Notre salle de poker offre plusieurs formats adaptés à tous les niveaux, des débutants qui découvrent le Texas Hold'em aux joueurs confirmés habitués des tournois de la Côte d'Azur. Nous organisons régulièrement des tournois de poker avec des prize pools attractifs, ouverts aux résidents et visiteurs de Cannes, en collaboration avec des partenaires reconnus de la scène poker française. Le Caribbean Stud Poker, proposé à nos tables, offre la possibilité de décrocher un jackpot progressif. Nos croupiers professionnels guident chaque joueur à travers les règles et subtilités du jeu, garantissant une expérience équitable et transparente, conforme aux exigences de l'ANJ.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Texas Hold'em :<\/strong> Format le plus populaire en France, parties cash game et tournois hebdomadaires avec buy-in à partir de 50 €.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Caribbean Stud Poker :<\/strong> Jackpot progressif disponible, mise de qualification à 1 €, gain maximum en cas de quinte flush royale.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Poker Omaha :<\/strong> Variante prisée des connaisseurs, disponible sur demande pour les groupes et événements privés sur la Côte d'Azur.<\/li>\n<\/ul>\n\n<h3>Machines à Sous : L'Incontournable de Notre Salle Cannoise<\/h3>\n<p>Notre espace machines à sous propose une sélection de terminaux électroniques modernes, régulièrement mis à jour pour offrir les dernières nouveautés du marché. Chaque machine à sous est certifiée par l'ANJ et testée par des laboratoires indépendants accrédités, garantissant des générateurs de nombres aléatoires (RNG) conformes aux normes françaises les plus strictes. Les mises varient de 0,01 € à 10 € par ligne, permettant à tous les budgets de profiter de l'ambiance unique de notre casino terrestre à Cannes. Vous trouverez des machines à thèmes variés — aventure, mythologie, cinéma — avec des fonctionnalités bonus, tours gratuits et multiplicateurs pouvant atteindre 1 000x.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #c29543;\">\n      <th style=\"border: 1px solid #5e2a14; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Jeu<\/th>\n      <th style=\"border: 1px solid #5e2a14; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Mise min.<\/th>\n      <th style=\"border: 1px solid #5e2a14; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Mise max.<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #240e05;\">\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\"><strong>Roulette Fr.<\/strong><\/td>\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\">2 €<\/td>\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\">5 000 €<\/td>\n    <\/tr>\n    <tr style=\"background-color: #301307;\">\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\"><strong>Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\">5 €<\/td>\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\">2 000 €<\/td>\n    <\/tr>\n    <tr style=\"background-color: #240e05;\">\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\"><strong>Blackjack VIP<\/strong><\/td>\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\">50 €<\/td>\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\">5 000 €<\/td>\n    <\/tr>\n    <tr style=\"background-color: #301307;\">\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\"><strong>Poker<\/strong><\/td>\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\">10 €<\/td>\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\">1 000 €<\/td>\n    <\/tr>\n    <tr style=\"background-color: #240e05;\">\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\"><strong>Machines à sous<\/strong><\/td>\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\">0,01 €<\/td>\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\">10 €\/ligne<\/td>\n    <\/tr>\n    <tr style=\"background-color: #301307;\">\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\"><strong>Caribb. Stud<\/strong><\/td>\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\">5 €<\/td>\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\">500 €<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Dress Code & Accès : Comment Venir au Royal Palm Casino ?<\/h3>\n<p>Pour garantir l'atmosphère de prestige qui fait la renommée du Royal Palm Casino à Cannes, nous appliquons un dress code élégant obligatoire pour tous nos visiteurs. Tenue de soirée recommandée : chemise ou veste pour messieurs, tenue habillée pour les dames. L'accès est strictement réservé aux personnes majeures (18 ans révolus) munis d'une pièce d'identité valide. Les personnes inscrites au fichier national des interdits de jeu de l'ANJ ne peuvent pas accéder à notre établissement. Notre équipe de sécurité, présente à l'entrée 7j\/7, veille au respect de ces conditions pour assurer une expérience sereine à tous nos hôtes sur la Côte d'Azur.<\/p>\n\n<h3>Jeu Responsable : Notre Engagement à Cannes<\/h3>\n<p>Le Casino Royal Palm s'engage fermement en faveur du jeu responsable, conformément aux directives de l'Autorité Nationale des Jeux (ANJ). Nous formons l'intégralité de notre personnel à la détection des comportements problématiques et mettons à disposition de nos visiteurs des outils d'autolimitation et d'autoexclusion. Des brochures d'information sur les associations d'aide (Joueurs Info Service — 09 74 75 13 13) sont disponibles à l'accueil de notre casino cannois. Notre politique stricte interdit l'accès aux mineurs et aux personnes sous tutelle judiciaire, et chaque membre de notre équipe est habilité à orienter tout joueur en difficulté vers les ressources appropriées.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Autoexclusion volontaire :<\/strong> Possibilité de s'inscrire au fichier ANJ pour une exclusion temporaire ou définitive de l'ensemble des casinos français.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Aide et écoute :<\/strong> Joueurs Info Service disponible 7j\/7 au 09 74 75 13 13, en accès libre depuis tout le territoire national.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Personnel formé :<\/strong> Toute notre équipe cannoise suit une formation certifiée en prévention du jeu excessif, renouvelée annuellement.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Limites de jeu :<\/strong> Sur demande, tout joueur peut fixer ses propres limites de mise et de durée de jeu auprès de notre direction.<\/li>\n<\/ul>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Fournisseurs de logiciels"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Gastronomie, Bar & Événements Cannes",
+                        "description": "<h2>Une Soirée Complète au Royal Palm : Jeux, Gastronomie et Art de Vivre à la Cannoise<\/h2>\n\n<p>Au-delà de ses tables de jeux, le Casino Royal Palm de Cannes vous invite à vivre une expérience sensorielle unique qui fusionne le plaisir du jeu avec l'art de vivre à la française. Niché sur la Riviera française, notre établissement propose chaque soir une programmation alliant gastronomie d'exception, cocktails raffinés et ambiance musicale live. De notre restaurant étoilé à notre bar à champagne, chaque instant passé au Royal Palm est pensé pour vous offrir le summum du luxe et de la convivialité sur la Côte d'Azur. Nos hôtes — qu'ils soient résidents de Cannes ou visiteurs du monde entier — retrouvent ici l'essence même du casino à la française : prestige, émotion et raffinement.<\/p>\n\n<h3>Notre Restaurant Gastronomique : Une Table d'Exception à Cannes<\/h3>\n<p>Ouvert chaque soir à partir de 19h, notre restaurant gastronomique est bien plus qu'une simple pause entre deux parties. Notre chef passionné compose une carte élaborée au fil des saisons, mettant à l'honneur les produits locaux de Provence et de la Méditerranée, sublimés par des techniques culinaires contemporaines. Chaque assiette est une invitation au voyage sensoriel : daurade royale en croûte de sel, agneau de Sisteron aux herbes de Provence, soufflé au Grand Marnier… La cave à vins de notre établissement cannois recèle plus de 200 références, dont de grands crus de Bordeaux, de Bourgogne et des vins rosés de Provence, parfaits pour accompagner vos soirées sur la Côte d'Azur.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Menu Dégustation :<\/strong> 5 plats signés par notre chef, accord mets-vins inclus, idéal pour les grandes occasions et dîners d'affaires à Cannes.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Carte des Saisons :<\/strong> Produits frais de Provence et de la Méditerranée, renouvelée chaque trimestre pour refléter le terroir de la Riviera française.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Cave à Vins :<\/strong> Plus de 200 références sélectionnées par notre sommelier, incluant grands crus classés et vins rosés de Provence.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Service Privatisé :<\/strong> Possibilité de réserver l'intégralité du restaurant pour événements privés, anniversaires ou célébrations d'entreprise à Cannes.<\/li>\n<\/ul>\n\n<h3>Le Bar Piano : L'Âme Musicale du Royal Palm<\/h3>\n<p>Le bar du Casino Royal Palm est bien plus qu'un simple espace de détente — c'est le cœur battant de notre établissement cannois. Chaque soir, un pianiste talentueux anime l'espace de ses mélodies, créant une atmosphère intimiste et élégante propice aux échanges. Notre carte des cocktails, élaborée par notre maître barman, propose plus de 80 créations originales et classiques intemporels, des Negroni aux Mojito en passant par nos signatures Royal Palm. La sélection de champagnes — Dom Pérignon, Moët & Chandon, Ruinart — est à la hauteur de la réputation de Cannes comme capitale mondiale du glamour et du luxe. Savourez votre verre en admirant l'architecture intérieure de notre casino, entièrement pensée pour vous faire vivre la magie de la Riviera française.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Piano Live :<\/strong> Concert chaque soir dès 20h, répertoire jazz, soul et variété française, une signature unique du Royal Palm Casino Cannes.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Cocktails Signature :<\/strong> 80+ créations exclusives dont le « Riviera Royale » et le « Palm Sunset », imaginés par notre maître barman pour la Côte d'Azur.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Carte Champagnes :<\/strong> Dom Pérignon, Moët & Chandon, Ruinart et cuvées prestige disponibles à la coupe ou au magnum.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Ambiance Lounge :<\/strong> Décoration intérieure Art Déco inspirée du patrimoine cannois, lumières tamisées et service attentionné 7j\/7 dès 18h.<\/li>\n<\/ul>\n\n<h3>Événements Privés & Soirées Thématiques à Cannes<\/h3>\n<p>Le Casino Royal Palm est le cadre idéal pour vos événements privés sur la Côte d'Azur. Mariages, anniversaires, team buildings d'entreprise, soirées de lancement de produit — notre équipe événementielle prend en charge chaque détail pour transformer votre soirée en un moment d'exception. Nous disposons de plusieurs espaces modulables pouvant accueillir de 20 à 200 personnes, équipés de systèmes audiovisuels dernier cri. Notre partenariat avec les grands hôtels 5 étoiles de Cannes (Hôtel Martinez, Majestic Barrière, Grand Hyatt Cannes) nous permet d'offrir des packages complets alliant hébergement, gastronomie et soirée casino. Durant le Festival de Cannes, nous proposons des soirées thématiques exclusives qui attirent célébrités et personnalités du monde entier.<\/p>\n\n<h3>Accès, Horaires et Informations Pratiques<\/h3>\n<p>Le Casino Royal Palm Cannes accueille ses visiteurs tous les jours de la semaine, de 18h à 3h du matin, sans interruption. L'entrée est entièrement gratuite pour tous les visiteurs, sous réserve du respect du dress code élégant et de la présentation d'une pièce d'identité valide. Notre casino est idéalement situé au cœur de Cannes, à quelques minutes à pied de la Croisette et du Palais des Festivals, facilement accessible en voiture, taxi ou transports en commun depuis Nice, Antibes et Mougins. Un service voiturier est disponible les vendredis, samedis et jours de grande affluence pour votre confort.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #c29543;\">\n      <th style=\"border: 1px solid #5e2a14; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Service<\/th>\n      <th style=\"border: 1px solid #5e2a14; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Horaire<\/th>\n      <th style=\"border: 1px solid #5e2a14; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Info<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #240e05;\">\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\"><strong>Salle de jeux<\/strong><\/td>\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\">18h – 3h<\/td>\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\">7j\/7 — entrée libre<\/td>\n    <\/tr>\n    <tr style=\"background-color: #301307;\">\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\"><strong>Restaurant<\/strong><\/td>\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\">19h – 2h<\/td>\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\">Réservation conseillée<\/td>\n    <\/tr>\n    <tr style=\"background-color: #240e05;\">\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\"><strong>Bar Piano<\/strong><\/td>\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\">18h – 3h<\/td>\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\">Live dès 20h<\/td>\n    <\/tr>\n    <tr style=\"background-color: #301307;\">\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\"><strong>Événements privés<\/strong><\/td>\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\">Sur demande<\/td>\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\">20 à 200 personnes<\/td>\n    <\/tr>\n    <tr style=\"background-color: #240e05;\">\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\"><strong>Voiturier<\/strong><\/td>\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\">Ven – Sam<\/td>\n      <td style=\"border: 1px solid #5e2a14; padding: 8px; color: #ffffff;\">Jours de forte affluence<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Réglementation Française et Licence ANJ<\/h3>\n<p>En tant qu'établissement de jeux opérant sur le territoire français, le Casino Royal Palm Cannes est soumis à la réglementation stricte du Ministère de l'Intérieur et est placé sous le contrôle permanent de l'Autorité Nationale des Jeux (ANJ). Notre licence de casino terrestre garantit à tous nos visiteurs des jeux équitables, une gestion transparente des fonds et un environnement de jeu sécurisé conforme aux normes européennes les plus exigeantes. Nos activités font l'objet d'audits réguliers par les services de l'État, assurant la traçabilité de toutes les opérations de jeu. La sécurité physique de notre établissement cannois est assurée 24h\/24 par une équipe de professionnels agréés par le Conseil National des Activités Privées de Sécurité (CNAPS).<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Licence ANJ :<\/strong> Autorisation délivrée par l'Autorité Nationale des Jeux, contrôle permanent de la conformité réglementaire de notre casino cannois.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Sécurité CNAPS :<\/strong> Personnel de sécurité agréé, présence 24h\/24, surveillance vidéo intégrale de la salle de jeux et des accès.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Audits d'État :<\/strong> Contrôles réguliers par les services du Ministère de l'Intérieur garantissant la fiabilité de chaque table et machine à sous.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Protection des données :<\/strong> Traitement des données personnelles conforme au RGPD européen, aucune donnée partagée sans consentement explicite du visiteur.<\/li>\n<\/ul>\n\n<h3>Pourquoi Choisir le Casino Royal Palm pour Votre Prochaine Soirée à Cannes ?<\/h3>\n<p>Cannes est l'une des villes les plus glamour et prestigieuses du monde, et notre casino en est l'un des fleurons. En choisissant le Royal Palm Casino, vous optez pour une soirée où chaque détail — du jeu à la gastronomie, de la musique à l'accueil — a été pensé pour vous offrir le meilleur de la Riviera française. Nos équipes multilingues (français, anglais, italien) vous accueillent avec chaleur et professionnalisme chaque soir de la semaine. Que vous veniez pour tenter votre chance aux tables, déguster un dîner gastronomique ou simplement savourer un verre au bar dans une ambiance musicale incomparable, le Casino Royal Palm Cannes est votre destination incontournable sur la Côte d'Azur. Rejoignez-nous dès ce soir et vivez la quintessence du casino à la française.<\/p>"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Comment accéder au Casino Royal Palm de Cannes ?",
+                            "answer": "Notre casino est situé au cœur de Cannes, accessible 7j\/7 de 18h à 3h. L'entrée est libre sur présentation d'une pièce d'identité valide. Un dress code élégant est exigé. Accès interdit aux mineurs et aux personnes inscrites au fichier ANJ."
+                        },
+                        {
+                            "title": "Quels jeux sont disponibles au Royal Palm Casino ?",
+                            "answer": "Nous proposons roulette française et européenne, blackjack classique et VIP, poker Texas Hold'em, Caribbean Stud Poker et machines à sous certifiées ANJ. Les mises vont de 0,01 € pour les machines jusqu'à 5 000 € sur les tables de roulette."
+                        },
+                        {
+                            "title": "Le restaurant du casino est-il ouvert tous les soirs ?",
+                            "answer": "Oui, notre restaurant gastronomique est ouvert 7j\/7 à partir de 19h. Notre chef propose une cuisine de saison avec des produits provençaux et méditerranéens. La réservation est conseillée, notamment les week-ends et pendant les grands événements cannois."
+                        },
+                        {
+                            "title": "Le casino est-il autorisé et sécurisé en France ?",
+                            "answer": "Oui, le Casino Royal Palm Cannes opère sous licence délivrée par l'Autorité Nationale des Jeux (ANJ) et sous contrôle permanent du Ministère de l'Intérieur. Notre sécurité est assurée 24h\/24 par du personnel agréé CNAPS et une surveillance vidéo intégrale."
+                        },
+                        {
+                            "title": "Puis-je organiser un événement privé au casino ?",
+                            "answer": "Absolument. Nous mettons à disposition des espaces modulables pour 20 à 200 personnes, adaptés aux mariages, anniversaires et événements d'entreprise. Notre équipe événementielle prend en charge l'organisation complète sur la Côte d'Azur. Contactez-nous pour un devis personnalisé."
+                        },
+                        {
+                            "title": "Y a-t-il un dress code au Casino Royal Palm Cannes ?",
+                            "answer": "Oui, un dress code élégant est obligatoire pour accéder à notre établissement. Pour les messieurs : chemise ou veste. Pour les dames : tenue habillée. Les tenues décontractées (jeans, baskets, shorts) ne sont pas admises afin de préserver l'atmosphère de prestige du Royal Palm."
+                        },
+                        {
+                            "title": "Comment fonctionne le jeu responsable dans votre casino ?",
+                            "answer": "Nous appliquons strictement les directives de l'ANJ en matière de jeu responsable. Notre personnel est formé à la détection des comportements problématiques. Vous pouvez demander une autoexclusion volontaire ou appeler Joueurs Info Service au 09 74 75 13 13 gratuitement."
+                        },
+                        {
+                            "title": "Le bar avec piano live est-il ouvert chaque soir ?",
+                            "answer": "Oui, notre bar est ouvert 7j\/7 dès 18h avec un pianiste en live chaque soir à partir de 20h. Vous pouvez y déguster cocktails signature, champagnes prestige et vins fins dans une ambiance intimiste. Aucune réservation n'est nécessaire pour accéder au bar."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

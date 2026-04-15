@@ -1,0 +1,19 @@
+{
+  "name": "Royal Palm Casino",
+  "short_name": "Royal Palm Casino",
+  "theme_color": "",
+  "background_color": "#310F00",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1776264637-eaeqrbfhzaxxdgyqsknjijq23o.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
